@@ -1,2 +1,2 @@
 # puppeteer-demo
-A simple code to start with puppeteer.
+A simple code snippet to start with puppeteer.
