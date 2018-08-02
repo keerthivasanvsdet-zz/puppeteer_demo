@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "puppeteer": "git+https://github.com/GoogleChrome/puppeteer.git"
+  }
+}
